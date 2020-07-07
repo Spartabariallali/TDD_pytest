@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../python"
+		},
+		{
+			"path": "../pythonprograms"
+		},
+		{
+			"path": "../pythonSparta"
+		},
+		{
+			"path": "../pythonSparta/oopAnimals"
+		},
+		{
+			"path": "../pythonSparta/calculatoroop"
+		},
+		{
+			"path": "../pythonSparta/API"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
